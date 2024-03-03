@@ -1,0 +1,46 @@
+1. Python text to speech module:-
+    Installation command: pip install pyttsx3
+
+2. Python speech recognition module:
+    Installation command: pip install SpeechRecognition
+
+3. Python pywhatkit module:
+    Installation command: pip install pywhatkit
+
+4. Python wikipedia module:
+    Installation command: pip install wikipedia
+
+5. Python pywikihow module:
+    Installation command: pip install pywikihow
+
+6. Python flask module:
+    Installation command: pip install Flask
+
+7. Python pyaudio module:
+    Installation command (1): pip install pipwin
+    Installation command (2): pipwin install pyaudio
+
+8. Python playsound module:
+    Installation command: pip install playsound
+
+9. Python bs4 module:
+    Installation command: pip install bs4
+
+10. Python pyinstaller module:
+    Installation command: pip install pyinstaller
+
+11. Python openpyxl module:
+    Installation command: pip install openpyxl
+
+12. Python secure-smtplib module:
+    Installation command: pip install secure-smtplib
+
+13. Python pyautogui module:
+    Installation command: pip install pyautogui
+
+14. Python opencv-python module:
+    Installation command: pip install opencv-python
+
+15. Python keyboard module:
+    Installation command: pip install keyboard
+ 
